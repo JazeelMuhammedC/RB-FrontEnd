@@ -1,12 +1,12 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import Footer from './Components/Footer'
-import Header from './Components/Header'
-import LandingPage from './Pages/LandingPage'
-import Resume from './Pages/Resume'
-import Form from './Pages/Form'
-import History from './Pages/History'
-import Pnf from './Pages/Pnf'
+import Footer from './components/Footer'
+import Header from './components/Header'
+import LandingPage from './pages/LandingPage'
+import Resume from './pages/Resume'
+import Form from './pages/Form'
+import History from './pages/History'
+import Pnf from './pages/Pnf'
 
 
 function App() {
