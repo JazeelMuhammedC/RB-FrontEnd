@@ -1,0 +1,5 @@
+ What Is Axios ?
+
+ Axios is a promised-Based HTTP client for node.js and the browser.
+ it is isomorphic(=it can run in the browser and node.js with the same Codebase).
+ On the server-sideit is uses the native node.js http module,while on the client(browser)it uses XMLHttpRequest.
